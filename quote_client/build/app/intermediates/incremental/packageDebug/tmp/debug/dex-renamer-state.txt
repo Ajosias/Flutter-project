@@ -1,0 +1,4 @@
+#Fri Nov 12 18:38:26 SAST 2021
+base.0=/home/wtc/work/qute_quote_client/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
