@@ -53,7 +53,7 @@ class _PostsPageState extends State<PostsPage> {
                         title: Text((posts.text),
                             style: const TextStyle(
                               fontSize: 18,
-                              color: Colors.cyanAccent,
+                              color: Colors.cyan,
                               fontWeight: FontWeight.bold,
                             )),
                         subtitle: Text(

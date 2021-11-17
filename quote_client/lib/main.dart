@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:qute_quote_client/quote_pages/IP_screen.dart';
+import 'package:qute_quote_client/splashy.dart';
 
 void main() {
   runApp(MyApp());
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: "FLutter demo",
       theme: ThemeData.dark(),
-      home: IP_screen(),
+      home: SplashScreen(),
       debugShowCheckedModeBanner: false,
     );
   }
